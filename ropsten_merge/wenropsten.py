@@ -1,6 +1,5 @@
 #Mess modified old codebase for the merge prediction on Ropsten and printing directly to html. Run with these args for the Ropsten merge setup: --ttd 43531756765713534 --time 1654689600
 
-from re import L
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
