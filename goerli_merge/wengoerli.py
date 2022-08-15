@@ -10,7 +10,6 @@ import datetime
 import time
 import os
 import warnings
-import datetime as dt
 from web3.middleware import geth_poa_middleware
 
 warnings.filterwarnings('ignore')
