@@ -2,7 +2,6 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib.dates as md
-from web3 import Web3
 import datetime as dt
 import time
 import os
